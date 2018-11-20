@@ -1,0 +1,36 @@
+h1 {
+    font-size:16px;
+    margin:5px;
+    font-weight:bold;
+}
+.sub-menu {
+    margin:4px;
+    padding:4px;
+    border:1px solid;
+}
+h3 {
+    font-size:14px;
+    margin:2px;
+    padding:2px;
+}
+.slapi {
+    width:600px;
+    height:480px;
+}
+.note {
+    color: #ff0000;
+    font-weight: bold;
+    margin:20px 0px;
+}
+.link {
+    margin:5px 0px;
+    font-size:12px;
+}
+.code {
+    width:600px;
+    height:300px;
+    border: 1px solid #000;
+    overflow-y:scroll;
+    font-size: 11px;
+    padding:2px;
+}
